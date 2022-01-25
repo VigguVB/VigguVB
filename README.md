@@ -1,8 +1,9 @@
 ### Hi Developers 👋
 
-[![Linkedin](https://www.linkedin.com/in/vignesh-bhandarkar-349115221/)
-
-[![Website Badge](https://stackoverflow.com/users/17689332/vignesh-bhandarkar)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
 Full Stack Solution Architect
@@ -24,7 +25,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=VigguVB&theme=react-dark&area=true)
 <!--
-**VigguVB/Vignesh Bhandarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VigguVB/VigneshBhandarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
