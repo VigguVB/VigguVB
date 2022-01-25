@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/vignesh-bhandarkar-349115221/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/17689332/vignesh-bhandarkar)
+[![Linkedin Badge](https://img.shields.io/badge/-Vignesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/vignesh-bhandarkar-349115221/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Vignesh-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Vignesh-yellow)](https://stackoverflow.com/users/17689332/vignesh-bhandarkar)
 
 I'm
 Full Stack Solution Architect
